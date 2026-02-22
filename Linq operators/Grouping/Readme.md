@@ -160,7 +160,7 @@ var result = dbContext.Purchases
 # 2.`Chunk`
 
 `Chunk` divides source sequence and into arrays of the specified `size`
-
+> ### Chunk is not supported for EF core 
 
 ###  Example :
 This is the simplest use case: taking a flat list and breaking it into smaller arrays.
