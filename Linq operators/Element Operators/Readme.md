@@ -2,18 +2,6 @@
 
 Element operators allow you to retrieve a single, specific element from an `IEnumerable<T>` sequence. They typically transform a collection (`IEnumerable<T>`) into a single item (`T`).
 
-## Quick Reference Table
-
-| Method | Description |
-| --- | --- | 
-| **First / FirstOrDefault** | Returns the first element (optionally matching a predicate). |
-| **Last / LastOrDefault** | Returns the last element (optionally matching a predicate). |
-| **Single / SingleOrDefault** | Returns the only element; throws if multiple matches exist. |
-| **ElementAt / OrDefault** | Returns the element at a specific index. |
-| **MinBy / MaxBy** | Returns the *object* containing the min/max key. | 
-| **DefaultIfEmpty** | Returns a default value sequence if the input is empty. | 
----
-
 # 1. `First`, `Last`, and `Single`
 
 These methods are the bread and butter of element retrieval. The `OrDefault` variants are safer as they prevent exceptions when no match is found.
