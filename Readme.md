@@ -30,7 +30,7 @@ Start here to understand the "Magic" behind the syntax.*
 
 ---
 
-### 1. [Filtering](./Linq%20operators/Filtering/)
+### 1. [Filtering](/Linq%20operators/Filtering/)
 
 * **Operators:** `Where`, `Take`, `Skip`, `Distinct`, `Chunk`.
 * **Goal:** Slicing datasets and implementing efficient pagination.
