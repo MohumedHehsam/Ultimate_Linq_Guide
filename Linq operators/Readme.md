@@ -66,57 +66,57 @@ These operators are used to "materialize" a LINQ query into a concrete data stru
 
 *Click a category to jump to the detailed explanation and code examples.*
 
-### 1. [Filtering](https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%20operators/Filtering)
+### 1. [Filtering](Filtering/)
 
 * **Operators:** `Where`, `Take`, `Skip`, `Distinct`, `Chunk`.
 * **Goal:** Slicing datasets and implementing efficient pagination.
 
-### 2. [Projecting](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Projecting)
+### 2. [Projecting](Projecting/)
 
 * **Operators:** `Select`, `SelectMany`.
 * **Goal:** Transforming objects and shaping the output data.
 
-### 3. [Joining](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Joining)
+### 3. [Joining](Joining/)
 
 * **Operators:** `Join`, `GroupJoin`.
 * **Goal:** Flattening nested collections and mastering many-to-many relationships.
 
-### 4. [Ordering](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Ordering)
+### 4. [Ordering](Ordering/)
 
 * **Operators:** `OrderBy`, `ThenBy`, `Reverse`.
 * **Goal:** Managing data sequences and complex object sorting.
 
-### 5. [Grouping](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Grouping)
+### 5. [Grouping](Grouping/)
 
 * **Operators:** `GroupBy`, `ToLookup`.
 * **Goal:** Organizing data into keys and creating "HAVING" logic equivalents in C#.
 
-### 6. [Set Operators](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Set%2520Operators)
+### 6. [Set Operators](SetOperators/)
 
 * **Operators:** `Union`, `Intersect`, `Except`.
 * **Goal:** Comparing two lists or finding unique commonalities.
 
-### 7. [Conversion Methods](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Conversion%2520Methods)
+### 7. [Conversion Methods](Conversion%20Operators/)
 
 * **Operators:** `ToList`, `ToArray`, `ToDictionary`, `AsEnumerable`, `AsQueryable`.
 * **Goal:** Changing the underlying storage type or changing query execution behavior.
 
-### 8. [Element Operators](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Element%2520Operators)
+### 8. [Element Operators](Element%20Operators/)
 
 * **Operators:** `First`, `FirstOrDefault`, `Last`, `Single`, `ElementAt`.
 * **Goal:** Extracting a specific, single record safely from a sequence.
 
-### 9. [Aggregation Methods](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Aggregation%2520Methods)
+### 9. [Aggregation Methods](Aggregate%20Methods/)
 
 * **Operators:** `Count`, `Sum`, `Min`, `Max`, `Average`, `Aggregate`.
 * **Goal:** Summarizing a collection into a single numerical or calculated value.
 
-### 10. [Quantifiers](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Quantifiers)
+### 10. [Quantifiers](Quantifier/)
 
 * **Operators:** `Any`, `All`, `Contains`.
 * **Goal:** Validating the presence of data or checking if a collection meets specific criteria.
 
-### 11. [Generation Methods](https://www.google.com/search?q=https://github.com/MohumedHehsam/Ultimate_Linq_Guide/tree/main/Linq%2520operators/Generation%2520Methods)
+### 11. [Generation Methods](Generator%20Methods/)
 
 * **Operators:** `Range`, `Repeat`, `Empty`.
 * **Goal:** Generating sequences of data programmatically for testing or logic flow.
